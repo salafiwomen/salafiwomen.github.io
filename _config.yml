@@ -3,12 +3,8 @@ description:    ""
 baseurl:        "/"
 url:            "https://salafiwomen.github.io" 
 
-github: [metadata]
 encoding: UTF-8
 permalink: pretty
 paginate: 20
 markdown: kramdown
 lang: en 
-
-include:
-  - _pages
